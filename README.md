@@ -35,7 +35,7 @@ Individual investors and business students lack a quick, visual tool to compare 
 4. The browser will open at http://localhost:8501. Use the sidebar to select companies, ratios, and year range.
 
 ## 6. Product link / Demo
-- **GitHub repository**: 
+- **GitHub repository**: https://github.com/xxunran/ACC102-sp500-financial-dashboard
 - **Demo video**:
 
 ## 7. Limitations & next steps
