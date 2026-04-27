@@ -36,7 +36,7 @@ Individual investors and business students lack a quick, visual tool to compare 
 
 ## 6. Product link / Demo
 - **GitHub repository**: https://github.com/xxunran/ACC102-sp500-financial-dashboard
-- **Demo video**:
+- **Demo video**:【ACC102 Mini Assignment】https://www.bilibili.com/video/BV1fEo6BDEpD?vd_source=37adb4a689567b7b9edb60336b9afd63
 
 ## 7. Limitations & next steps
 - **Limitations**: Only 32 companies (sector‑representative but not full S&P 500); annual data only (quarterly would be more timely); no cash flow or valuation ratios.
